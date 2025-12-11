@@ -11,6 +11,13 @@ The system includes:
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![ML](https://img.shields.io/badge/Category-Machine%20Learning-orange)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+---
+
 ## 🚀 Features
 - Predicts repayment probability
 - Identifies high-risk borrowers
