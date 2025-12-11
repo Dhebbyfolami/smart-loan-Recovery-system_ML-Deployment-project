@@ -111,5 +111,18 @@ See MODEL_CARD.md for detailed documentation on model assumptions, limitations, 
 
 ---
 
-## 📄 License
-MIT License (or specify another)
+💬 Contact
+
+Your Name
+📧 Email: dhebbyfolasayomi97@gmail.com
+🔗 GitHub: https://github.com/Debbyfolami
+💼 LinkedIn: [(Oluwasayo Adeola)](https://www.linkedin.com/in/oluwasayo-adeola-a035472a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+---
+
+📝 License
+
+This project is licensed under the MIT License.
+
+---
